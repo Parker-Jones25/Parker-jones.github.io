@@ -13,14 +13,9 @@ Brief general overview of what the project was about.
 
 ### 🛠️ How I Solved the Challenge
 Explain:
-- What tools/languages you used  
-- Your main approach  
-- Any obstacles and how you overcame them  
-- What the final result does  
+- i used Css, HTML, and JSscript to code a interactive visual for real time data on how  Ai has empacted our enviorment.
 
----
-
-# ⭐ Assignment 1: 
+# ⭐ Assignment 1: Composion creator
 **Description:**  
 Brief explanation of the assignment.
 
@@ -32,7 +27,7 @@ Write 3–5 sentences about your method.
 
 ---
 
-# ⭐ Assignment 2: [Assignment Name]
+# ⭐ Assignment 2: Morse code convertor
 
 ### 📸 Screenshot  
 ![Assignment Screenshot](images/a2.png)
@@ -42,7 +37,7 @@ Explain your process.
 
 ---
 
-# ⭐ Assignment 3: [Assignment Name]
+# ⭐ Assignment 3: Duck Gussing game
 
 ### 📸 Screenshot  
 ![Assignment Screenshot](images/a3.png)
@@ -52,14 +47,14 @@ Explain your process.
 
 ---
 
-# ⭐ Assignment 4: [Assignment Name]
+# ⭐ Assignment 4: Image detecor 
 
 ### 📸 Screenshot  
 ![Assignment Screenshot](images/a4.png)
 
 ### 🛠️ How I Solved the Challenge
 Explain your process.
-
+-used a AI data base, HTml, and ccs to code a AI that can recgognize what you draw. 
 ---
 
 # 👍 Additional Information (Optional)
